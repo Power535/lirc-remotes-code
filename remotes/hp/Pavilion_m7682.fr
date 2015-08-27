@@ -35,7 +35,7 @@ begin remote
           KEY_TV                   0x1BA5                    #  Was: TV
           PRINT                    0x1BB1
           TV_RECORD                0x1BB7
-          KEY_INFO                 0x1BD9                    #  Was: GUIDE
+          KEY_EPG                  0x1BD9                    #  Was: GUIDE
           TV_DIRECT                0x1BDA
           KEY_DVD                  0x1BDB                    #  Was: DVD
           KEY_PREVIOUS             0x1BDC                    #  Was: PREVIOUS

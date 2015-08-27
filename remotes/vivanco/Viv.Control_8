@@ -45,8 +45,8 @@ begin remote
           A.B                      0x0000000000000655
           KEY_ENTER                0x0000000000000685        #  Was: ENTER
           KEY_INFO                 0x0000000000000155        #  Was: INFO
-          EMPTY                    0x0000000000000785
-          KEY_TEXT                 0x00000000000006C5        #  Was: TEXT
+#         EMPTY                    0x0000000000000785
+#         KEY_TEXT                 0x00000000000006C5        #  Was: TEXT
           KEY_MENU                 0x00000000000006C5        #  Was: MENU
           KEY_OK                   0x0000000000000685        #  Was: OK
           KEY_EXIT                 0x0000000000000785        #  Was: EXIT
@@ -54,8 +54,8 @@ begin remote
           KEY_DOWN                 0x00000000000002F5        #  Was: DOWN
           KEY_LEFT                 0x00000000000006F5        #  Was: LEFT
           KEY_RIGHT                0x00000000000001F5        #  Was: RIGHT
-          FREEZE                   0x0000000000000785
-          SPLIT                    0x0000000000000685
+#         FREEZE                   0x0000000000000785
+#         SPLIT                    0x0000000000000685
           KEY_REWIND               0x0000000000000665        #  Was: REW
           KEY_PLAY                 0x0000000000000265        #  Was: PLAY
           KEY_FASTFORWARD          0x0000000000000165        #  Was: FF

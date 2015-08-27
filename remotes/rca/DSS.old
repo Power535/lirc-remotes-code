@@ -37,7 +37,7 @@ begin remote
           FETCH                    0x0000000000F9306C
           KEY_MUTE                 0x0000000000F3F0C0        #  Was: MUTE
           GO_BACK                  0x0000000000F270D8
-          KEY_INFO                 0x0000000000F1A0E5        #  Was: GUIDE
+          KEY_EPG                  0x0000000000F1A0E5        #  Was: GUIDE
           KEY_INFO                 0x0000000000F3C0C3        #  Was: INFO
           KEY_MENU                 0x0000000000F080F7        #  Was: MENU
           KEY_CLEAR                0x0000000000F060F9        #  Was: CLEAR
